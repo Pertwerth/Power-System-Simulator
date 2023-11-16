@@ -1,2 +1,3 @@
 # Power System Simulator
- A project for simulating the power supply of a batter
+
+A project for simulating the power supply of a battery.

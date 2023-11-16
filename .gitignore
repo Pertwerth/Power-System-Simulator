@@ -8,3 +8,4 @@ report_3423193.xlsx
 logger.log
 energy_modbus.py
 energy_csv.py
+.gitignore
